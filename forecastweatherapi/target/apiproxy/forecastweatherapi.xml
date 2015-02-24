@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><APIProxy name="forecastweatherapi" revision="1">
-    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="forecastweatherapi">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
     <CreatedBy>Diego</CreatedBy>
-    <Description>ganesh git revision unknown Ganesh-PC ::Recommended Forecast Weather API</Description>
+    <Description>Recommended Forecast Weather API</Description>
     <DisplayName>forecastweatherapi</DisplayName>
 </APIProxy>

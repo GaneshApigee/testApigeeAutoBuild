@@ -5,5 +5,5 @@
     <Properties/>
     <Format>yahoo</Format>
     <OutputVariable>response</OutputVariable>
-    <Source>respons</Source>
+    <Source>response</Source>
 </XMLToJSON>
